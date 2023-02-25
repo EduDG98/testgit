@@ -5,9 +5,6 @@ About Frank? Yes he is not a DJ
 who is bob? is he a DJ? cuz I'm not going to date another one...
 I mean, I have not dated Frank, come on! he is a DJ...
 
-<<<<<<< HEAD
 
 Ok i did, but he didn't tell me about the dj thinki
-=======
 I'm rebasing a commit 5 state back
->>>>>>> 52f891b (trying a rebase 5 state back)
