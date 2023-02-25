@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-Hi! I'm Bobby. I'm not new, but I'm shy... 
-=======
 Hi! I'm Bob. I'm new here...
 
 My friends call me Bobby, are you my friend?
->>>>>>> develop/practice-conflits
+
+Do you know Frank? He is a DJ, I'm going to ask him about his spotify account or SoundCloud...
